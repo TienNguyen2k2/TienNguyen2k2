@@ -1,4 +1,4 @@
-<h1>Hello, I'm Pham Nhat Tien from Vietnam <img width="30px" <h1>Hello, I'm Pham Nhat Tien from Vietnam <img width="30px" src="https://bestanimations.com/media/vietnam/1934513302vietnam-flag-gif.gif"/></h1>
+<h1>Hello, I'm Pham Nhat Tien from Vietnam <img width="30px" src="https://bestanimations.com/media/vietnam/1934513302vietnam-flag-gif.gif"/></h1>
 <ul>
   <li> I'm a student of: <a href="https://hcmute.edu.vn/">Ho Chi Minh city University of Technology and Education <a/> </li>
   <li> I'm working in: <a href="https://maicogroup.com/">Maico Group<a/> </li>
@@ -16,5 +16,3 @@
 <img width="50px" src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" />
 <img width="50px" src="https://cdn-icons-png.flaticon.com/512/919/919847.png" />
 </p>
-
-
